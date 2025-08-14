@@ -345,7 +345,7 @@ LPH_JIT_MAX(function()
 	end
 end)();
 
-wait(1)
+wait(4)
 
 local CloneRef = cloneref or function(a)return a end
 
